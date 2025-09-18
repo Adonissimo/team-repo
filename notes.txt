@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line edited by main branch
+=======
+Line edited by branch-a
+>>>>>>> branch-a
