@@ -1,2 +1,3 @@
 Adding new feature in feature-1 branch
 sup!
+Hello from studentC!
