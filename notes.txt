@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Line edited by main branch
-=======
-Line edited by branch-a
->>>>>>> branch-a
-=======
-Line edited by main branch AND branch-a
->>>>>>> f064427dec46771c43ce012dfc70931022c7fbb6
+This is my first line in notes.txt
